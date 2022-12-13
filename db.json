@@ -1,0 +1,64 @@
+{
+  "seller": [
+    {
+      "name": "subham kumar das",
+      "email": "subhamkvgms112@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "subham",
+      "email": "subhamkvgms112@gmail.com",
+      "password": "111111",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "name": "subhan",
+      "email": "subhamkvgms112@gmail.com",
+      "password": "23",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "subham",
+      "email": "subham123@gmail.com",
+      "password": "33333333",
+      "id": 7
+    },
+    {
+      "name": "karan",
+      "email": "karanrai@123gmail.com",
+      "password": "subha@123",
+      "id": 8
+    },
+    {
+      "name": "ram",
+      "email": "syv@gmail.com",
+      "password": "32343",
+      "id": 9
+    },
+    {
+      "name": "subham",
+      "email": "subhamkvgms112@gmai.com",
+      "password": "12222222222222",
+      "id": 10
+    }
+  ]
+}
